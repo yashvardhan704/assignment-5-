@@ -17,4 +17,5 @@ This repository contains two Python scripts:
 ##  Task 2
 - Filename: `task2`
 - Description: the following programe creates a list from 1 to 10 and we have to print the first 5 values of the string and reverse the string
-- ![Uploading Screenshot 2025-07-28 214850.png…]()
+- <img width="1095" height="183" alt="Screenshot 2025-07-28 214850" src="https://github.com/user-attachments/assets/835c7280-6897-4919-91cf-5b3c20985577" />
+
